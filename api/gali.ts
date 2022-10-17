@@ -37,7 +37,7 @@ let bohotgandiwali: string[] = ["andi mandi sandi .... ", "labda ka sarkar", "dh
 const bohotgandiwaliGali: string[] = bohotgandiwali.map(name => name.toLowerCase())
 let assamese: string[] = ["kela", "kukurpuali", "maksudu", "lewra", "boinaksuda", "sutmarni", "kukur", "mokkel", "baal", "sutiya", "pukor"];
 const assameseGali: string[] = assamese.map(name => name.toLowerCase())
-const kannadaGali: string[] = ["loude", "nin_appan_hada", "sule_magane", "boli_magane", "shata_hari"]
+const kannadaGali: string[] = ["loude", "nin_appan_hada", "sule_magane","gandu", "boli_magane", "shata_hari"]
 let kannada: string[] = kannadaGali.map(name => name.toLowerCase())
 const japaneseGali: string[] = ["baka", "kusoyaro", "unkoyaro", " unchi", "bakayaro", "kemochiwarui", "kimoi"];
 let japanese: string[] = japaneseGali.map(name => name.toLowerCase())
